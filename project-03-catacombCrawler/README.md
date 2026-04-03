@@ -1,4 +1,4 @@
-# 🏰 Catacomb Crawler (Java Console Game)
+# 🏰 Catacomb Crawler (Java CLI Game)
 
 **Catacomb Crawler** is a text-based adventure game in Java where you navigate a dungeon, fight monsters, and try to escape the catacomb alive. This project demonstrates object-oriented programming, user input handling, and simple game mechanics in Java.
 
