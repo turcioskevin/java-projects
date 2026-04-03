@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Main {
+public class CatacombCrawler {
     public static void main(String[] args) {
 
         Scanner scnr = new Scanner(System.in);
